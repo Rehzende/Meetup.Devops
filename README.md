@@ -1,8 +1,8 @@
-# [Meetup Docker & Companhia](https://docker-sorocaba.github.io/Meetup.Devops/)
+# [Meetup Docker & Companhia](https://rehzende.github.io/Meetup.Devops/)
 
 ![Imagem com informações principais do meetup Docker & Companhia. Data: Outubro. Local: Cidade Universitária. Meetup Sorocaba. Docker & Companhia. Informações pelo telefone com Marcos (15) 98808-2972](img/3meetup.png "Imagem com informações principais do meetup Docker & Companhia.")
 
-[Link da página principal de divulgação do Meetup](https://docker-sorocaba.github.io/Meetup.Devops/)
+[Link da página principal de divulgação do Meetup](https://rehzende.github.io/Meetup.Devops/)
 
 Este é um grupo para os interessados ​​em Docker, Kubernetes, DevOps e novas tecnologias. Todos os níveis de competências são bem-vindos.
 
@@ -31,7 +31,7 @@ Se você  manja de Docker, K8S e Cultura Devops, você é muito bem-vindo à pal
 
 Caso tenha interesse. O primeiro passo é submeter um novo projeto no nosso github, é bem simples:
 
-- Abra uma nova **issues** no nosso repositório [docker-sorocaba/Meetup.Devops](https://docker-sorocaba.github.io/Meetup.Devops/)
+- Abra uma nova **issues** no nosso repositório [rehzende/Meetup.Devops](https://rehzende.github.io/Meetup.Devops/)
 - Adicione o Título da Palestra/Workshop
 - Na descrição, adicione o assunto de sua palestra, etc..
 - Adicione uma bio sobre você, e seu perfil do linkedin

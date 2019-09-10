@@ -1,4 +1,4 @@
-# [Meetup Docker & Companhia](https://docker-sorocaba.github.io/Meetup.DockerFIle/)
+# [Meetup Docker & Companhia](https://docker-sorocaba.github.io/Meetup.DevOps/)
 
 ![Imagem com informações principais do meetup Docker & Companhia. Data: em dezembro. Local: Cidade Universitária. Meetup Sorocaba. Docker & Companhia. Informações pelo telefone com Marcos (15) 98808-2972](img/main_publi.png "Imagem com informações principais do meetup Docker & Companhia.")
 
